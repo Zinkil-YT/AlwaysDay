@@ -1,11 +1,11 @@
 # AlwaysDay
 **Plugin That Makes All Worlds Day Time.**
 
-# Features:
+# Features
 - [x] Makes all worlds in server in day time
 - [x] Can be used with other plugins
 
-# Social Links:
+# Social Links
 - Github: https://github.com/Zinkil-YT
 - Youtube: https://www.youtube.com/channel/UCW1PI028SEe2wi65w3FYCzg
 - Discord Account: Zinkil#2006 
