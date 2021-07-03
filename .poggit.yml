@@ -5,4 +5,5 @@ branches:
 projects:
   AlwaysDay:
     path: ""
+    icon: icon.png
 ...
