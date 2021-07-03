@@ -1,6 +1,3 @@
-[![](https://poggit.pmmp.io/shield.api/AlwaysDay)](https://poggit.pmmp.io/p/AlwaysDay)
-[![](https://poggit.pmmp.io/shield.dl.total/AlwaysDay)](https://poggit.pmmp.io/p/AlwaysDay)
-
 # AlwaysDay
 **Plugin That Makes All Worlds Day Time.**
 
