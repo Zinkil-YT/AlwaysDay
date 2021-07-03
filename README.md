@@ -10,6 +10,5 @@
 - Youtube: https://www.youtube.com/channel/UCW1PI028SEe2wi65w3FYCzg
 - Discord Account: Zinkil#2006 
 - Discord Server: https://discord.gg/2zt7P5EUuN
-
-## **Developed By Zinkil**
-##### **Made With Love** 💛
+<br>
+ **Made With Love** 💛
