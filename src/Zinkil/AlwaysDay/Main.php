@@ -38,8 +38,6 @@ class Main extends PluginBase{
         self::$instance = $this;
 
         $this->setTasks();
-
-        $this->getLogger()->info("--- AlwaysDay V1.0.0 By Zinkil ---");
     }
 
     public static function getInstance(): Main{
