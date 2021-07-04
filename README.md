@@ -2,7 +2,7 @@
 **Plugin That Makes All Worlds Day Time.**
 
 # Features
-- [x] Make all server's worlds in day time
+- [x] Make all worlds in day time
 - [x] Can be used with other plugins
 
 # Social Links
