@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 namespace Zinkil\AlwaysDay\Tasks;
 
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\Server;
 use pocketmine\scheduler\Task;
 use Zinkil\AlwaysDay\Loader;
@@ -15,7 +15,7 @@ class SetDayTask extends Task{
 		$this->plugin = $plugin;
 	}
 	public function onRun(int $currentTick) : void{
-		foreach($this->plugin->getServer()->getLevels() as $level){
+		foreach($this->plugin->getServer()->getWorld() as $world){
 			$level->setTime(0);
 			$level->stopTime();
 		}
