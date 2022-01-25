@@ -1,8 +1,8 @@
 name: AlwaysDay
 main: Zinkil\AlwaysDay\Loader
-api: 3.0.0
-version: 1.0.1
-mcpe-protocol: [431, 433, 434, 435, 437, 440, 441, 448]
+api: 4.0.0
+version: 1.0.2
+mcpe-protocol: [431, 433, 434, 435, 437, 440, 441, 448, 475]
 author: Zinkil
 website: https://github.com/Zinkil-YT
 description: "Plugin That Makes All Worlds Day Time."

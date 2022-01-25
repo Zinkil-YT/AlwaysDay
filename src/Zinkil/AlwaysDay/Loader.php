@@ -5,7 +5,7 @@ declare(strict_types = 1);
 namespace Zinkil\AlwaysDay;
 
 use pocketmine\plugin\PluginBase;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\Server;
 use pocketmine\math\Vector3;
 use pocketmine\network\mcpe\protocol\EventPacket;
